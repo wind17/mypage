@@ -1,0 +1,194 @@
+#bg{
+	width:890px;
+	height:400px;
+	background-image:url("Images/tu_01.jpg");
+	margin:150px auto;
+	position:relative
+	}
+#yx{position:absolute;
+	width:150px;
+	height:150px;
+	border-radius:50%;
+	background-image:url("Images/Ahri_Splash_4.jpg");
+	right:45%;
+	bottom:30%;
+	transition:transform 2400s linear;
+	}
+#yx:hover{
+	transform:rotate(36000deg);
+	}
+#GZ{
+font-size:20px;
+color:red;
+}
+#jx1{position:absolute;
+     margin-top: 20px;
+     background-color:#4B0170;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-100px;
+	}
+#jx2{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-80px;
+	}
+#jx3{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-60px;
+	}
+#jx4{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-120px;
+	}
+#jx5{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-140px;
+	}
+#jx6{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-160px;
+	}
+#jx7{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-180px;
+	}
+#jx8{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-200px;
+	}
+#jx9{position:absolute;
+
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-220px;
+	 }
+#jx10{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-240px;
+	 }
+#jx11{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-260px;
+	 }
+#jx12{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-280px;
+	 }
+#jx13{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-40px;
+	 }
+#jx14{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:-20px;
+	 }
+#jx15{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:0px;
+	 }
+#jx16{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:20px;
+	 }
+#jx17{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:40px;
+	 }
+#jx18{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:60px;
+	 }
+#jx19{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:80px;
+	 }
+#jx20{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:100px;
+	 }
+#jx21{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:120px;
+	 }
+#jx22{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:140px;
+	 }
+#jx23{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:160px;
+	 }
+#jx24{position:absolute;
+     margin-top: 20px;
+     background-color:yellow;
+	 bottom:0;
+	 left:50%;
+	 margin-left:180px;
+	 }
+
+
